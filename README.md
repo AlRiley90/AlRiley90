@@ -9,6 +9,7 @@
 - 😄 Pronouns: He/Him/His
 - ⚡:libra: Fun fact: I love to spend my spare time watching movies, discovering a new show on some streaming platform, reading a book about someone influential, and have recently discovered that I have a true passion for coding. I enjoy the feeling of knowing that people can see and interact with my work, however, I do have a pretty thorough understanding of several backend languages. Every chance I get to learn something new I want to take advantage of. 
 - My favorite quote: "I never lose, I win or I learn" - Nelson Mandela
+ - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlRiley90)](https://github.com/AlRiley90/github-readme-stats)
 <!--
 **AlRiley90/AlRiley90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
