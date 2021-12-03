@@ -1,3 +1,5 @@
+![Alex Riley](https://user-images.githubusercontent.com/88731829/144653368-4d9e4c3c-96bd-4bb0-b8c4-a32d2258ecfe.gif)
+
 ### Hi there, I'm Alex. Thanks for stopping by 👋
 
 - 🔭 I’m currently working on a Hangman game that utilizes java in the command line
