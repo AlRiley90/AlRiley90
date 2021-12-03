@@ -8,7 +8,7 @@
 - 📫 How to reach me: I currently live in San Antonio and can be reached at alex.riley.ar12@gmail.com or my [LinkedIn
 ](https://www.linkedin.com/in/alexander-s-riley/) 
 - 😄 Pronouns: He/Him/His
-- ⚡:libra: Fun fact: I love to spend my spare time watching movies, discovering a new show on some streaming platform, reading a book about someone influential. I enjoy the feeling of knowing that people can see and interact with my work, however, I do have a pretty thorough understanding of several backend languages. 
+- ⚡:libra: Fun fact: I have read every one of Malcolm Gladwell's books
 - My favorite quote: "I never lose, I win or I learn" - Nelson Mandela
  - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlRiley90)](https://github.com/AlRiley90/github-readme-stats)
 <!--
