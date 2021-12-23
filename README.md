@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Alex. Thanks for stopping by 👋
 
-- 🔭 I’m currently working on a full stack web application called Ad Lister
+- 🔭 I’m currently working on learning how to implement React.js to some of my completed JS projects
 - 🌱 I’m currently learning how to become the best full stack web developer that I can be, and absorbing new knowledge at every opportunity I get
 - 👯 I’m looking to collaborate on creating awesome graphics that enhance the user's experience on web applications I design
 - 🤔 I’m looking for help with learning how to become a better front end developer and knowing which practices are best to become habits when coding
