@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Alex. Thanks for stopping by 👋
 
-- 🔭 I’m currently working implementing React into previously created Javascript projects
+- 🔭 I’m currently working on implementing React into previously created Javascript projects
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on creating awesome graphics that enhance the user's experience on web applications I design
 - 🤔 I’m looking for help with learning how to become a better front end developer and knowing which practices are best to become habits when coding
